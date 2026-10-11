@@ -8,9 +8,8 @@ zerops:
 
       # what commands to use to build your app
       buildCommands:
-        - npm i
-        - npm run build
-
+        - npm install
+        
       # select which files / folders to deploy
       # after the build successfully finished
       deployFiles:
